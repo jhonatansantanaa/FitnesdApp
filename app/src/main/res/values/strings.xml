@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">FitnessApp</string>
     <string name="logo_aplicativo">Logo Aplicativo</string>
+    <string name="imc_desc">IMC é a sigla para o Indice de Massa Corporal que serve para avaliar o peso do individuo em relação á sua altura e assim indicar se está dentro do peso ideal, acima ou abaixo do peso desejado.\n\ \nPreencha os campos de peso e altura para descobrir o seu imc\n</string>
+    <string name="hint_txt">Peso(kg)</string>
+    <string name="txt_peso">Peso</string>
+    <string name="txt_altura">Altura</string>
+    <string name="edt_altura">Altura</string>
+    <string name="txt_btn_calc">Calcular</string>
 </resources>

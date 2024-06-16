@@ -3,9 +3,6 @@ package br.com.fitnessapp.ui
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
-import androidx.core.view.ViewCompat
-import androidx.core.view.WindowInsetsCompat
-import br.com.fitnessapp.R
 import br.com.fitnessapp.databinding.ActivityHomeBinding
 
 class HomeActivity : AppCompatActivity() {
